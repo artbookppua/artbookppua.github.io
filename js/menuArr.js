@@ -2,8 +2,8 @@ var menuArr = [
   [
     ['Як намалювати квітку'],
     [
-        ['Як намалювати квітку1', '/result/2-yak-namalyuvaty-kvitku'],
-        ['Як намалювати квітку2', '/result/1-yak-namalyuvaty-kvitku-novyy-variant'],
+        ['Як намалювати квітку1', '/2-yak-namalyuvaty-kvitku'],
+        ['Як намалювати квітку2', '/1-yak-namalyuvaty-kvitku-novyy-variant'],
         ['Як намалювати квітку3', '#linkFlower3'],
     ]
   ],
@@ -15,9 +15,9 @@ var menuArr = [
     ]
   ],
   [
-    ['Як намалювати квітку новий варіант', '/result/1-yak-namalyuvaty-kvitku-novyy-variant'],
+    ['Як намалювати квітку новий варіант', '/1-yak-namalyuvaty-kvitku-novyy-variant'],
   ],
   [
-    ['Як намалювати квітку', '/result/2-yak-namalyuvaty-kvitku'],
+    ['Як намалювати квітку', '/2-yak-namalyuvaty-kvitku'],
   ],
 ]
